@@ -1,0 +1,5 @@
+﻿  CalculatorView.cpp
+CalculatorView.cpp(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+CalculatorView.cpp(166): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CalculatorMaths.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  CPPCoursework.vcxproj -> C:\Users\EkgartVA\Downloads\Calculator_CPP_Winforms-master\CPP_Calculator\x64\Debug\CPP_Calculator.exe
